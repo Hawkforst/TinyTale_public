@@ -3,3 +3,4 @@
 
 # How it works?
 
+<img width="1236" height="1148" alt="obrazek" src="https://github.com/user-attachments/assets/0a9ced64-7dbc-4b43-b75f-2aa4a5ec0cf1" />
