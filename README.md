@@ -1,5 +1,7 @@
-# TinyTale_public
+# TinyTale public repository
 <img width="1408" height="768" alt="obrazek" src="https://github.com/user-attachments/assets/a3f8b598-a5b2-4fc1-bf81-ab73f4cb6899" />
+
+The purpose of this repository is to be a public overview of the TinyTale project. We're safeguarding our code in a private repository so this is mainly to outline and explain the high-level direction and state of the project.
 
 # How it works?
 
