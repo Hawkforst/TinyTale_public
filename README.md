@@ -4,10 +4,11 @@
 The purpose of this repository is to be a public overview of the TinyTale project. We're safeguarding our code in a private repository so this is mainly to outline and explain the high-level direction and state of the project.
 
 # How it works?
-
+Our moto is "Complexity from simple concepts". This is a pattern that dominates many engineering fields. Neural network, for example, are very simple concepts if you look into the lowest level, yet these simple parts interacting together create complex behavior. In a similar way, we are designing TinyTale to use several simple concepts which interact together (and with the player, via the narrator) to create an immersive experience that gives off the impression of a real world with its own rules, characters and struggles (that the player can interact with).
 <img width="1236" height="1148" alt="obrazek" src="https://github.com/user-attachments/assets/0a9ced64-7dbc-4b43-b75f-2aa4a5ec0cf1" />
 
 # Example of story flow visualization
+The story is largely linear, for now. This is to ensure we get all the aspects of the technical implementation right. As the framework matures and becomes consistent, coherent and robust, we will move forward with much more non-linear stories, where multiple branches intertwine together. We're, however, ultimately aiming for complex stories with meaningful choices.
 <img width="1712" height="1023" alt="obrazek" src="https://github.com/user-attachments/assets/bd65c0b7-2b4d-411a-a135-489fe2eb9a2d" />
 
 # High level diagram of TinyTale logic
