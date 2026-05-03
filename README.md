@@ -13,7 +13,7 @@ The story is largely linear, for now. This is to ensure we get all the aspects o
 <img width="1712" height="1023" alt="obrazek" src="https://github.com/user-attachments/assets/bd65c0b7-2b4d-411a-a135-489fe2eb9a2d" />
 
 # High level diagram of TinyTale logic
-<img width="1549" height="954" alt="image" src="https://github.com/user-attachments/assets/2e945131-647d-4ee5-a836-15972a42707b" />
+<img width="1347" height="959" alt="image" src="https://github.com/user-attachments/assets/58d66417-b4d7-4bfb-8324-566a371a49d7" />
 
 # TinyTale rewards creative solutions
 <img width="1024" height="730" alt="03" src="https://github.com/user-attachments/assets/6931b9dd-f014-426e-920a-0fbeca3f1a1e" />
