@@ -29,6 +29,22 @@ The story is largely linear, for now. This is to ensure we get all the aspects o
          playsinline>
   </video>
 </div>
+Our game supports Text-to-Speech, meaning the player(s) can play the game without looking at the screen.
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/6b7d209d-a20f-440b-bb3e-b93bffae6817" 
+         alt='video'
+         width="80%" 
+         autoplay 
+         muted 
+         loop 
+         playsinline>
+  </video>
+</div>
+
+
+
+
+
 
 
 
