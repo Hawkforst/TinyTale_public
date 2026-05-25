@@ -2,6 +2,20 @@
 <img width="1408" height="768" alt="obrazek" src="https://github.com/user-attachments/assets/a3f8b598-a5b2-4fc1-bf81-ab73f4cb6899" />
 
 The purpose of this repository is to be a public overview of the TinyTale project. We're safeguarding our code in a private repository so this is mainly to outline and explain the high-level direction and state of the project.
+# What is it?
+TinyTale is an AI-powered story-based Dungeon & Dragons style game with handcrafted stories, play alone or with others, only using your voice and listening to the narrator.
+
+## What customer problem do we solve?
+People love Dungeon & Dragons style storytelling experience (its popularity boosted by media like Stranger Things,..) and people love playing around with genAI. 
+But you need friends to play with, someone to design the story for the group, and time to come together, which can be overwhelming.
+
+There's also a huge market for games where you don't need to watch the screen all the time. People can play while doing garden work, when their eyes are tired or even with their grandparents. The only interface is the narrator's (generated) voice and user's own voice (or just write the text as an optional feature)
+## How do we solve this problem?
+We've designed and now are developing a deterministic framework (with Dungeon & Dragons style rolls) where there's an underlying world with set rules and scenes that the player interacts with. On top of this backbone, there's an AI powered narrator (an LLM) with Text to Speech capability. 
+
+This creates an immersive D&D style experience that can be played solo, with your friends, or with your grandmother (the very natural flow of the game makes it easier to bridge even big age gaps).
+
+(Note: For now our experiments run on a laptop but we're aiming to eventually move the game on smartphones (by either moving the computationally heavy part on a cloud or through optimization, e.g. TTS model distillation). )
 
 # How it works?
 Our moto is "Complexity from simple concepts". This is a pattern that dominates many engineering fields. Neural network, for example, are very simple concepts if you look into the lowest level, yet these simple parts interacting together create complex behavior. In a similar way, we are designing TinyTale to use several simple concepts which interact together (and with the player, via the narrator) to create an immersive experience that gives off the impression of a real world with its own rules, characters and struggles (that the player can interact with).
