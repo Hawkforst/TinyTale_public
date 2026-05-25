@@ -11,7 +11,7 @@ But you need friends to play with, someone to design the story for the group, an
 
 There's also a huge market for games where you don't need to watch the screen all the time. People can play while doing garden work, when their eyes are tired or even with their grandparents. The only interface is the narrator's (generated) voice and user's own voice (or just write the text as an optional feature)
 ## How do we solve this problem?
-We've designed and now are developing a deterministic framework (with Dungeon & Dragons style rolls) where there's an underlying world with set rules and scenes that the player interacts with. On top of this backbone, there's an AI powered narrator (an LLM) with Text to Speech capability. 
+We've designed and now are developing a deterministic framework (with Dungeon & Dragons style rolls). There's an underlying world with set rules and scenes that the player interacts with. On top of this backbone, we're using an AI powered narrator (an LLM) with Text to Speech capability. This combination of deterministic rules and LLM narration freedom gives the user both the feeling of freedom and immersion (LLM narrator reacts to whatever the player comes up with) but prevents AI slop (LLM narrator is constantly reminded of the world's contraint in prompts, major decision and events are code-based, not LLM based)
 
 This creates an immersive D&D style experience that can be played solo, with your friends, or with your grandmother (the very natural flow of the game makes it easier to bridge even big age gaps).
 
